@@ -8,4 +8,4 @@ The data foramt is like:
 
 
 You can dowolaod the .py file and enter into the ralative dic
-   python keemensCluster -i inputfile -n clusterNum -t iterationNum
+   python kmeans -i inputfile -n clusterNum -t iterationNum
